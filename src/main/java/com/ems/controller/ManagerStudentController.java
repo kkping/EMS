@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.List;
 
 /**
- * @program: hqyj_edu_managerSystem_ssm->ManagerStudentController
+ * @program: edu_managerSystem_ssm->ManagerStudentController
  * @description: 教务处对学生学籍的管理
- * @author: ty
- * @create: 2019-09-03 10:56
+ * @author: lp
+ * @create: 2017-08-03 10:56
  **/
 @Controller
 @RequestMapping("/managerStudent")

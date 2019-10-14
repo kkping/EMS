@@ -97,7 +97,7 @@
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                              <input type="text"  name="courseName" placeholder="输入查询课程关键名">
                         &nbsp;&nbsp;
-                            <button class="btn btn-info waves-effect" ><trans oldtip="Submit" newtip="搜索" style="">搜索</trans></button>
+                            <button  class="btn btn-info waves-effect" ><trans oldtip="Submit" newtip="搜索" style="">搜索</trans></button>
                         &nbsp;&nbsp; <button type="button" onclick="batchInsert()" <%--href="<%=basePath%>teacherController/batchInsert"--%>  class="btn btn-info waves-effect" ><trans oldtip="Submit" newtip="批量录入" style="">批量录入</trans></button>
                         </form>
                         <div class="table-responsive">
